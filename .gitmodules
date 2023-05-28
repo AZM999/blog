@@ -1,0 +1,4 @@
+[submodule "azm_gsoc_blog/public"]
+	path = azm_gsoc_blog/public
+	url = git@github.com:AZM999/azm.github.io.git
+	branch = main
